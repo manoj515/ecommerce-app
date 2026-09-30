@@ -5,7 +5,7 @@ pipeline {
     environment {
         IMAGE_NAME = "shopease-ecommerce"
         CONTAINER_NAME = "shopease-container"
-        PORT = "8081"
+        PORT = "8082"
     }
 
     stages {
